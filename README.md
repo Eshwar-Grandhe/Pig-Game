@@ -1,2 +1,2 @@
 # Pig-Game
-Learned this on Udemy javascript course.
+Learned how to code this on Udemy javascript course.
